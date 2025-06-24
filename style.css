@@ -453,6 +453,9 @@
         .service-box img {
           height: 60%;
         }
+        strong{
+          margin-right: 55px;
+        }
         /* Make all bold text 1.5rem on mobile */
         /* b, strong, .phone, [style*="font-weight: bold"] {
           font-size: 1.5rem !important;
